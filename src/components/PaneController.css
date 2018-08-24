@@ -1,0 +1,7 @@
+.pane-controller, .pane-controller-mobile {
+  padding-top: .5em;
+}
+
+.pane-controller-mobile select {
+  font-size: 16px;
+}

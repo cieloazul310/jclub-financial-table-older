@@ -1,0 +1,11 @@
+.y-axis .tick line {
+  stroke: #d1cbc0;
+}
+
+.y-axis .tick-domain line {
+  stroke: #b0a99c;
+}
+
+.y-axis .axis-label {
+  /*transform: rotate(90deg);*/
+}
