@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Jクラブ経営情報",
+  "name": "Jクラブの経営情報を年別・クラブ別に閲覧できるページです",
   "icons": [
     {
       "src": "favicon.ico",
